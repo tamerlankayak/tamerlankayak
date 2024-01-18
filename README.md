@@ -2,7 +2,7 @@
 ### Let me introduce myself:
 - I'm a ***Software Developer*** from Baku, Azerbaijan 🇦🇿
 - I write Android and Web applications using `Java` + `Kotlin` 👨🏻‍💻
-- I have ***5 years*** of professional experience ☕
+- I have ***6 years*** of professional experience ☕
 
 ### Contact info:
 - [**Mail ✉️**](mailto:tamerlan.software@gmail.com)
